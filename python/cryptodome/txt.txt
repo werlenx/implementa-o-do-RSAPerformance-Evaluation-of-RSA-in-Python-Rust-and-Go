@@ -1,5 +1,0 @@
-melhorias implemntadas 
-- substituição da biblioteca timeit pela time afim de aumentar a precisão dos resultados 
-- monitoramento de uso de cpu e memoria de todos os processos
-- bem como o medição do tempo de geração de chaves para benchmark sem o pytest
-- usa pandas para poder manipular os resultados
